@@ -1,5 +1,5 @@
 # Cloud_Account_Setup-and-services-Overview / CC AWS CLOUD.pdf
-
+## EXP 01
 ## DATE : 09/03/2025
 ## NAME : KAVIYA SNEKA M
 ## REGISTER NUMBER : 212223040091
@@ -70,6 +70,7 @@ AWS provides tools to build, deploy, and manage mobile applications.
 5. Gaming – Powering multiplayer and cloud gaming applications. 
 6. Backup & Disaster Recovery – Secure storage and failover solutions. 
 ## Output: 
-Snapshot 1 : cloud account creation in AWS platform. 
+![WhatsApp Image 2025-03-22 at 14 13 16_141ad80f](https://github.com/user-attachments/assets/769b6eeb-2469-4c57-8355-7c013c666f25)
+
 ## Conclusion: 
 AWS provides a wide range of cloud services that enable businesses and develope
