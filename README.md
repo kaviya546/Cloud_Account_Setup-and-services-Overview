@@ -70,7 +70,8 @@ AWS provides tools to build, deploy, and manage mobile applications.
 5. Gaming – Powering multiplayer and cloud gaming applications. 
 6. Backup & Disaster Recovery – Secure storage and failover solutions. 
 ## Output: 
-![WhatsApp Image 2025-03-22 at 14 13 16_141ad80f](https://github.com/user-attachments/assets/769b6eeb-2469-4c57-8355-7c013c666f25)
+![WhatsApp Image 2025-03-22 at 14 17 11_a63100f0](https://github.com/user-attachments/assets/77395ed6-76b2-4b3c-8309-e570a49e4e91)
+
 
 ## Conclusion: 
 AWS provides a wide range of cloud services that enable businesses and develope
